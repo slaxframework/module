@@ -1,10 +1,10 @@
 {
-  "name": "slaxframework/menu",
-  "description": "Slax Framework Menu Package",
+  "name": "slaxframework/module",
+  "description": "Slax Framework Module Package",
   "license": "MIT",
   "support": {
-    "issues": "https://github.com/slaxframework/menu/issues",
-    "source": "https://github.com/slaxframework/menu"
+    "issues": "https://github.com/slaxframework/module/issues",
+    "source": "https://github.com/slaxframework/module"
   },
   "authors": [
     {
@@ -17,7 +17,7 @@
   },
   "autoload": {
     "psr-4": {
-      "SlaxFramework\\Menu\\": ""
+      "SlaxFramework\\Module\\": ""
     }
   },
   "minimum-stability": "dev"
