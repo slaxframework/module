@@ -1,0 +1,24 @@
+{
+  "name": "slaxframework/menu",
+  "description": "Slax Framework Menu Package",
+  "license": "MIT",
+  "support": {
+    "issues": "https://github.com/slaxframework/menu/issues",
+    "source": "https://github.com/slaxframework/menu"
+  },
+  "authors": [
+    {
+      "name": "Eray AYDIN",
+      "email": "erayaydin2016@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.6.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "SlaxFramework\\Menu\\": ""
+    }
+  },
+  "minimum-stability": "dev"
+}
